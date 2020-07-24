@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb47b6f8e68e02715aa53ce3020085a0",
+    "revision": "54ef607c8ad44e2c5d247e319218c187",
     "url": "/kokoh/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kokoh/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "a07e411f7a54db1055ba",
+    "revision": "3ccb648a66b42f13a050",
     "url": "/kokoh/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kokoh/static/js/2.2b3586c2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a07e411f7a54db1055ba",
-    "url": "/kokoh/static/js/main.1bc9c571.chunk.js"
+    "revision": "3ccb648a66b42f13a050",
+    "url": "/kokoh/static/js/main.06b286ae.chunk.js"
   },
   {
     "revision": "f79eec9c7b96429c463a",

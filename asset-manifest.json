@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kokoh/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/kokoh/static/js/main.1bc9c571.chunk.js",
-    "main.js.map": "/kokoh/static/js/main.1bc9c571.chunk.js.map",
+    "main.js": "/kokoh/static/js/main.06b286ae.chunk.js",
+    "main.js.map": "/kokoh/static/js/main.06b286ae.chunk.js.map",
     "runtime-main.js": "/kokoh/static/js/runtime-main.af8c7e7e.js",
     "runtime-main.js.map": "/kokoh/static/js/runtime-main.af8c7e7e.js.map",
     "static/css/2.af3c1da9.chunk.css": "/kokoh/static/css/2.af3c1da9.chunk.css",
     "static/js/2.2b3586c2.chunk.js": "/kokoh/static/js/2.2b3586c2.chunk.js",
     "static/js/2.2b3586c2.chunk.js.map": "/kokoh/static/js/2.2b3586c2.chunk.js.map",
     "index.html": "/kokoh/index.html",
-    "precache-manifest.a541033ffcffc14c98f288d4eacf1f5c.js": "/kokoh/precache-manifest.a541033ffcffc14c98f288d4eacf1f5c.js",
+    "precache-manifest.ed4a74a17c3650f38bf18d5ee0aaca14.js": "/kokoh/precache-manifest.ed4a74a17c3650f38bf18d5ee0aaca14.js",
     "service-worker.js": "/kokoh/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/kokoh/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/kokoh/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.2b3586c2.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1bc9c571.chunk.js"
+    "static/js/main.06b286ae.chunk.js"
   ]
 }
